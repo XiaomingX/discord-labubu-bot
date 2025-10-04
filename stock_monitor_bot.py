@@ -1,5 +1,4 @@
 import os
-import asyncio
 from datetime import datetime
 from threading import Thread
 from discord.ext import commands, tasks
